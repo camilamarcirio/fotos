@@ -1,3 +1,3 @@
 # fotos
 imagens de teste
-fotos de teste para profesosrr
+fotos de teste para professor
